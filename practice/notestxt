@@ -1,0 +1,33 @@
+Here are some Python programming questions for you to practice and strengthen your basics:
+
+1. Basic Syntax
+Write a program to print the following:
+css
+Copy
+Edit
+Hello, [Your Name]!
+Welcome to Python programming.
+2. Variables and Input
+Write a program to accept a user’s name and age, then print:
+css
+Copy
+Edit
+Your name is [name] and you are [age] years old.
+3. If-Else Conditions
+Write a program to check if a number entered by the user is odd or even.
+4. Loops
+Write a program to print numbers from 1 to 10 using a for loop.
+Write a program to calculate the sum of all even numbers between 1 and 50 using a while loop.
+5. Functions
+Write a function that takes two numbers as input and returns their sum.
+6. List and Loop
+Create a list of 5 fruits and print each fruit on a new line using a loop.
+7. Dictionary Practice
+Create a dictionary with three key-value pairs (e.g., "name": "Alice", "age": 25). Write a program to print all the keys and their values.
+8. Working with Strings
+Write a program to reverse a string entered by the user.
+9. File Handling
+Create a text file, write "Hello, Python!" into it, then read and print its content.
+10. Modules
+Use the math module to calculate the square root of a number entered by the user.
+Let me know which ones you'd like to work on, or if you'd like help solving any of them!
