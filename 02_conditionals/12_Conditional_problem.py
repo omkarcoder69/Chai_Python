@@ -51,18 +51,32 @@
 # 5. Weather Activity Suggestion
 # Problem: Suggest an activity based on the weather (e.g., Sunny - Go for a walk, Rainy - Read a book, Snowy - Build a snowman).
 
-weatherCheck = {
-    1:"sunny",
-    2:"rainy",
-    3:"snowy",
-}
+# weatherCheck = {
+#     "sunny":"Go for a walk",
+#     "Rainy":"Read a book",
+#     "Snowy":"Build a snowman",
 
-user = input("Enter  your weather suggestion:").lower()
-if user == weatherCheck[1]:
-    print("Go for a walk")
-elif user == weatherCheck[2]:
-    print("Read a book")
-elif user == weatherCheck[3]:
-    print("Build a snowman")
-else:
-    print("Enter proper choice")
+# }
+
+# user = input("Enter  your weather suggestion:").lower()
+
+# if user in weatherCheck:
+#     print(f"Suggested activity is: {weatherCheck[user]}")
+# else:
+#     print("Enter proper choice")
+
+
+# 6. Transportation Mode Selection
+# Problem: Choose a mode of transportation based on the distance (e.g., <3 km: Walk, 3-15 km: Bike, >15 km: Car).
+
+
+# userMode = float(input("Enter your mode of transportation"))
+
+# if userMode<=3:
+#     print("Mode of transportation Walk")
+# elif userMode>=3 and userMode<=15:
+#     print("Mode of transportation Bike")
+# elif userMode>=15:
+#     print("Mode of transportation Car")
+# else:
+#     print("Enter proper mode")
